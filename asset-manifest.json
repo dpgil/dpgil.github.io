@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.7b4efc16.chunk.js",
-    "main.js.map": "/static/js/main.7b4efc16.chunk.js.map",
+    "main.js": "/static/js/main.bb52d8c6.chunk.js",
+    "main.js.map": "/static/js/main.bb52d8c6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9089ee33.js",
     "runtime-main.js.map": "/static/js/runtime-main.9089ee33.js.map",
-    "static/js/2.0ce3e1a5.chunk.js": "/static/js/2.0ce3e1a5.chunk.js",
-    "static/js/2.0ce3e1a5.chunk.js.map": "/static/js/2.0ce3e1a5.chunk.js.map",
+    "static/js/2.4ab8df6c.chunk.js": "/static/js/2.4ab8df6c.chunk.js",
+    "static/js/2.4ab8df6c.chunk.js.map": "/static/js/2.4ab8df6c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.420af00422c1b5e425f15603bc294c2a.js": "/precache-manifest.420af00422c1b5e425f15603bc294c2a.js",
+    "precache-manifest.656516f9891e171fbd2ed6c8b1a98222.js": "/precache-manifest.656516f9891e171fbd2ed6c8b1a98222.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.0ce3e1a5.chunk.js.LICENSE.txt": "/static/js/2.0ce3e1a5.chunk.js.LICENSE.txt",
+    "static/js/2.4ab8df6c.chunk.js.LICENSE.txt": "/static/js/2.4ab8df6c.chunk.js.LICENSE.txt",
     "static/media/ava_square.png": "/static/media/ava_square.fb38a14f.png",
     "static/media/chimes.wav": "/static/media/chimes.e147b568.wav",
     "static/media/chimpanzee_square.jpeg": "/static/media/chimpanzee_square.d6c5a441.jpeg",
@@ -32,13 +30,17 @@
     "static/media/mushrooms_square.jpg": "/static/media/mushrooms_square.b017a80e.jpg",
     "static/media/orange_square.jpg": "/static/media/orange_square.828f5e3f.jpg",
     "static/media/owl_square.jpg": "/static/media/owl_square.7c7b61ed.jpg",
+    "static/media/pathlinker.png": "/static/media/pathlinker.360ed9c8.png",
     "static/media/peacock_square.jpg": "/static/media/peacock_square.0f3b6b8a.jpg",
-    "static/media/shine.wav": "/static/media/shine.d13991c7.wav"
+    "static/media/pente.png": "/static/media/pente.04195ba2.png",
+    "static/media/personal-website.png": "/static/media/personal-website.e60cd0bf.png",
+    "static/media/shine.wav": "/static/media/shine.d13991c7.wav",
+    "static/media/truth-fiddle.png": "/static/media/truth-fiddle.0f89ab56.png",
+    "static/media/type-master.png": "/static/media/type-master.1be01982.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9089ee33.js",
-    "static/js/2.0ce3e1a5.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.7b4efc16.chunk.js"
+    "static/js/2.4ab8df6c.chunk.js",
+    "static/js/main.bb52d8c6.chunk.js"
   ]
 }
