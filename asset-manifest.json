@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.784e1c5b.chunk.js",
-    "main.js.map": "/static/js/main.784e1c5b.chunk.js.map",
+    "main.js": "/static/js/main.2f93cbea.chunk.js",
+    "main.js.map": "/static/js/main.2f93cbea.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9089ee33.js",
     "runtime-main.js.map": "/static/js/runtime-main.9089ee33.js.map",
-    "static/js/2.f23227fc.chunk.js": "/static/js/2.f23227fc.chunk.js",
-    "static/js/2.f23227fc.chunk.js.map": "/static/js/2.f23227fc.chunk.js.map",
+    "static/js/2.ac74654f.chunk.js": "/static/js/2.ac74654f.chunk.js",
+    "static/js/2.ac74654f.chunk.js.map": "/static/js/2.ac74654f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fda8f1e477ab3135db1eefb2c6835b11.js": "/precache-manifest.fda8f1e477ab3135db1eefb2c6835b11.js",
+    "precache-manifest.fa0a0ff153dce2a2aa1772dd19e8a820.js": "/precache-manifest.fa0a0ff153dce2a2aa1772dd19e8a820.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.f23227fc.chunk.js.LICENSE.txt": "/static/js/2.f23227fc.chunk.js.LICENSE.txt",
+    "static/js/2.ac74654f.chunk.js.LICENSE.txt": "/static/js/2.ac74654f.chunk.js.LICENSE.txt",
     "static/media/arr-3.gif": "/static/media/arr-3.f36ee9cc.gif",
     "static/media/arr-4.gif": "/static/media/arr-4.ebd522a8.gif",
     "static/media/arr-5.gif": "/static/media/arr-5.ee78b75b.gif",
@@ -17,15 +17,17 @@
     "static/media/bb-0.png": "/static/media/bb-0.b18e73c1.png",
     "static/media/bb-1.gif": "/static/media/bb-1.8a265e70.gif",
     "static/media/bb-2.gif": "/static/media/bb-2.e8e78f58.gif",
-    "static/media/chimes.wav": "/static/media/chimes.e147b568.wav",
+    "static/media/blue.wav": "/static/media/blue.04ef6845.wav",
     "static/media/chimpanzee_square.jpeg": "/static/media/chimpanzee_square.d6c5a441.jpeg",
     "static/media/cockatoo_square.jpeg": "/static/media/cockatoo_square.f918f5a1.jpeg",
     "static/media/comfortable.mp3": "/static/media/comfortable.cde0900f.mp3",
     "static/media/crow_square.jpeg": "/static/media/crow_square.59589005.jpeg",
     "static/media/dependencies-0.png": "/static/media/dependencies-0.f41a1c8d.png",
     "static/media/diagram-0.png": "/static/media/diagram-0.61790013.png",
+    "static/media/escritorio.wav": "/static/media/escritorio.e5fb7dbb.wav",
     "static/media/female-body_square.jpeg": "/static/media/female-body_square.a56a5232.jpeg",
     "static/media/female-portrait_square.jpeg": "/static/media/female-portrait_square.c4e8cbbb.jpeg",
+    "static/media/finding.wav": "/static/media/finding.9aba7766.wav",
     "static/media/flower_square.png": "/static/media/flower_square.12bf63c5.png",
     "static/media/flying.wav": "/static/media/flying.6324fb7b.wav",
     "static/media/frog_square.jpeg": "/static/media/frog_square.26d5a2eb.jpeg",
@@ -37,6 +39,7 @@
     "static/media/graph-4.png": "/static/media/graph-4.58dd136d.png",
     "static/media/hand2_square.jpeg": "/static/media/hand2_square.709c61f9.jpeg",
     "static/media/jellyfish_square.jpeg": "/static/media/jellyfish_square.3787a235.jpeg",
+    "static/media/lost-illusions.wav": "/static/media/lost-illusions.5ac20a8d.wav",
     "static/media/mask_square.jpg": "/static/media/mask_square.6a1a8e2f.jpg",
     "static/media/maybe_let.wav": "/static/media/maybe_let.75743e3b.wav",
     "static/media/mushroom_square.jpg": "/static/media/mushroom_square.20e6663c.jpg",
@@ -49,11 +52,12 @@
     "static/media/personal-website.png": "/static/media/personal-website.e0701c37.png",
     "static/media/shine.wav": "/static/media/shine.d13991c7.wav",
     "static/media/truth-fiddle.png": "/static/media/truth-fiddle.0f89ab56.png",
-    "static/media/type-master.png": "/static/media/type-master.1be01982.png"
+    "static/media/type-master.png": "/static/media/type-master.1be01982.png",
+    "static/media/wall.wav": "/static/media/wall.0c6fbb7b.wav"
   },
   "entrypoints": [
     "static/js/runtime-main.9089ee33.js",
-    "static/js/2.f23227fc.chunk.js",
-    "static/js/main.784e1c5b.chunk.js"
+    "static/js/2.ac74654f.chunk.js",
+    "static/js/main.2f93cbea.chunk.js"
   ]
 }
